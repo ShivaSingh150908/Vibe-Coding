@@ -1,0 +1,6 @@
+{
+  "name": "STEM Study Tracker & Planner",
+  "description": "Dark-themed study app for Physics, Chemistry, and Mathematics featuring Flowstate, Pomodoro, and Custom timers with linked task tracking, interactive calendar planner, subtasks, difficulty levels, monthly consistency heatmaps, weekly analytics, and cloud device sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
